@@ -49,12 +49,6 @@ You can view the live website here: [Live Demo](https://pankajyogi7898.github.io
 ---
 
 
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
- ---
-
 ## 📬 Contact
 
 - Email: pyogi8461@@gmail.com   
